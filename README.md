@@ -21,7 +21,6 @@ Here are some ideas to get you started:
 
 ## Skills
 
-<img alt="HTML5" src ="https://img.shields.io/badge/HTML5-F05032.svg?&style=for-the-badge&logo=html5&logoColor=ffffff"/>
-<img alt="CSS" src ="https://img.shields.io/badge/CSS3-1572B6.svg?&style=for-the-badge&logo=css3"/>
+<img alt="HTML5" src ="https://img.shields.io/badge/HTML5-F05032.svg?&style=for-the-badge&logo=html5&logoColor=ffffff"/> <img alt="CSS" src ="https://img.shields.io/badge/CSS3-1572B6.svg?&style=for-the-badge&logo=css3"/>
 <img alt="javascript" src ="https://img.shields.io/badge/javascript-F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=000"/>
 <img alt="React" src ="https://img.shields.io/badge/React-61DAFB.svg?&style=for-the-badge&logo=React&logoColor=000"/>
