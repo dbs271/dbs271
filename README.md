@@ -19,6 +19,12 @@ Here are some ideas to get you started:
 
 -->
 
+## Notion Study Note
+<a href="https://shrouded-neon-e05.notion.site/3a8265a063654b69b2a62beac7fcd2ce?v=42ee693f07d44aa6b0d0f527d7bb045b&pvs=4">
+<img alt="Notion" src ="https://img.shields.io/badge/notion-000000.svg?&style=for-the-badge&logo=notion&logoColor=000000"/>
+  <a/>
+
+
 ## Skills
 
 <img alt="HTML5" src ="https://img.shields.io/badge/HTML5-F05032.svg?&style=for-the-badge&logo=html5&logoColor=ffffff"/> <img alt="CSS" src ="https://img.shields.io/badge/CSS3-1572B6.svg?&style=for-the-badge&logo=css3"/>
