@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 ## 
 
-<img alt="Python" src ="https://img.shields.io/badge/html-#E34F26.svg?&style=for-the-badge&logo=html&logoColor=white"/>
+<img alt="HTML" src ="https://img.shields.io/badge/html-#E34F26.svg?&style=for-the-badge&logo=html&logoColor=white"/>
