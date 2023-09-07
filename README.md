@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 -->
 
 ## 
-![HTML5]
+![HTML5] (https://img.shields.id/badge/-HTML5-F05032?style=for-the-badge&logo=html5&logoColor=ffffff)
 
