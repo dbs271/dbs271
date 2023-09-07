@@ -17,7 +17,9 @@ Here are some ideas to get you started:
 뱃지 
 <img alt="Python" src ="https://img.shields.io/badge/기술명-원하는색상코드.svg?&style=for-the-badge&logo=로고명&logoColor=로고색상"/>
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=깃허브 아이디&show_icons=true&theme=스타일)
 -->
+<img alt="state" src="https://github-readme-stats.vercel.app/api?username=dbs271&show_icons=true&theme=tokyonight" />
 
 ## Note
 <a href="https://shrouded-neon-e05.notion.site/3a8265a063654b69b2a62beac7fcd2ce?v=42ee693f07d44aa6b0d0f527d7bb045b&pvs=4">
