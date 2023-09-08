@@ -43,4 +43,7 @@ Here are some ideas to get you started:
 <img alt="Notion" src ="https://img.shields.io/badge/notion-000000.svg?&style=for-the-badge&logo=notion&logoColor=000000"/>
   <a/>
 
+### Project
+<a alt="got-project" href="https://jolly-tarsier-2ad93d.netlify.app/" target="_blank">Got Project</a>  
+
 </div>
