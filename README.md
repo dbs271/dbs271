@@ -43,7 +43,7 @@ Here are some ideas to get you started:
 <img alt="Notion" src ="https://img.shields.io/badge/notion-000000.svg?&style=for-the-badge&logo=notion&logoColor=000000"/>
   <a/>
 
-### Project
+### 📂 Project
 <a alt="got-project" href="https://jolly-tarsier-2ad93d.netlify.app/">Got Project</a>  
 <a alt="movie-trailer" href="https://toymovieproject.netlify.app/popular" >Movie Trailer</a>  
 <a alt="Paradise" href="https://paradiseum.netlify.app/">Paradise</a>
