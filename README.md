@@ -48,6 +48,6 @@ Here are some ideas to get you started:
 <a alt="movie-trailer" href="https://toymovieproject.netlify.app/popular" >Movie Trailer</a>  
 <a alt="Paradise" href="https://paradiseum.netlify.app/">Paradise</a>  
 
-### personal project
+
 
 </div>
