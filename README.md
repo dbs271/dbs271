@@ -49,5 +49,4 @@ Here are some ideas to get you started:
 <a alt="Paradise" href="https://paradiseum.netlify.app/">Paradise</a>  
 
 
-
 </div>
