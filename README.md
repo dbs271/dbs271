@@ -46,7 +46,5 @@ Here are some ideas to get you started:
 ### 📂 Team Project
 <a alt="got-project" href="https://jolly-tarsier-2ad93d.netlify.app/">Got Project</a>  
 <a alt="movie-trailer" href="https://toymovieproject.netlify.app/popular" >Movie Trailer</a>  
-<a alt="Paradise" href="https://paradiseum.netlify.app/">Paradise</a>  
-
-
+<a alt="Paradise" href="https://paradiseum.netlify.app/">Paradise</a> 
 </div>
