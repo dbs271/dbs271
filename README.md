@@ -45,6 +45,6 @@ Here are some ideas to get you started:
 
 ### 📂 Team Project
 <a alt="got-project" href="https://github.com/KIT-Frontend-Team2/week14-pair2-GotProject">Got Project</a>  
-<a alt="movie-trailer" href="https://toymovieproject.netlify.app/popular" >Movie Trailer</a>  
+<a alt="movie-trailer" href="https://github.com/KIT-Frontend-Team2/week15-movie-trailer-project" >Movie Trailer</a>  
 <a alt="Paradise" href="https://paradiseum.netlify.app/">Paradise</a> 
 </div>
