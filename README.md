@@ -44,7 +44,7 @@ Here are some ideas to get you started:
   <a/>
 
 ### 📂 Team Project
-<a alt="got-project" href="https://jolly-tarsier-2ad93d.netlify.app/">Got Project</a>  
+<a alt="got-project" href="[https://jolly-tarsier-2ad93d.netlify.app/](https://github.com/KIT-Frontend-Team2/week14-pair2-GotProject)">Got Project</a>  
 <a alt="movie-trailer" href="https://toymovieproject.netlify.app/popular" >Movie Trailer</a>  
 <a alt="Paradise" href="https://paradiseum.netlify.app/">Paradise</a> 
 </div>
