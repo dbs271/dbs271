@@ -44,12 +44,11 @@ Here are some ideas to get you started:
   <a/>
 
   <span class="custom-link">[링크 텍스트](링크주소)</span> 
-
 ### 📂 Team Project
-<a alt="Got-Project" href="https://github.com/KIT-Frontend-Team2/week14-pair2-GotProject" style="text-decoration:none; color:white;">Got Project</a>  
-<a alt="movie-trailer" href="https://github.com/KIT-Frontend-Team2/week15-movie-trailer-project" style="color:white" >Movie Trailer</a>  
-<a alt="Paradise" href="https://github.com/KIT-Frontend-Team2/Paradise" style="color:white">Paradise</a> 
+[Got Project](https://github.com/KIT-Frontend-Team2/week14-pair2-GotProject)  
+[Movie Trailer](https://github.com/KIT-Frontend-Team2/week15-movie-trailer-project)  
+[Paradise](https://github.com/KIT-Frontend-Team2/Paradise) 
 
 ### ♠️ Blog
-<a alt="Blog" href="https://dbs271.github.io" style="color:white">Blog</a>
+[Blog](https://dbs271.github.io)
 </div>
