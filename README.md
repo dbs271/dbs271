@@ -47,4 +47,7 @@ Here are some ideas to get you started:
 <a alt="got-project" href="https://github.com/KIT-Frontend-Team2/week14-pair2-GotProject">Got Project</a>  
 <a alt="movie-trailer" href="https://github.com/KIT-Frontend-Team2/week15-movie-trailer-project" >Movie Trailer</a>  
 <a alt="Paradise" href="https://github.com/KIT-Frontend-Team2/Paradise">Paradise</a> 
+
+### ♠️ Blog
+<a alt="Blog" href="https://dbs271.github.io">Blog</a>
 </div>
