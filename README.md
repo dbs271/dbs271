@@ -43,7 +43,7 @@ Here are some ideas to get you started:
 <img alt="Notion" src ="https://img.shields.io/badge/notion-000000.svg?&style=for-the-badge&logo=notion&logoColor=000000"/>
   <a/>
 
-  <span class="custom-link">[링크 텍스트](링크주소)</span> 
+
 ### 📂 Team Project
 [Got Project](https://github.com/KIT-Frontend-Team2/week14-pair2-GotProject)  
 [Movie Trailer](https://github.com/KIT-Frontend-Team2/week15-movie-trailer-project)  
