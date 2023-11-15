@@ -46,7 +46,7 @@ Here are some ideas to get you started:
  <span class="custom-link">[링크 텍스트](링크주소)</span> 
 
 ### 📂 Team Project
-<span>[Got Project]("https://github.com/KIT-Frontend-Team2/week14-pair2-GotProject")</span>
+<a alt="Got-Project" href="https://github.com/KIT-Frontend-Team2/week14-pair2-GotProject" style="text-decoration:none; color:white;">Got Project</a>
 <a alt="movie-trailer" href="https://github.com/KIT-Frontend-Team2/week15-movie-trailer-project" style="color:white" >Movie Trailer</a>  
 <a alt="Paradise" href="https://github.com/KIT-Frontend-Team2/Paradise" style="color:white">Paradise</a> 
 
