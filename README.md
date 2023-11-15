@@ -44,11 +44,6 @@ Here are some ideas to get you started:
   <a/>
 
 
-### 📂 Team Project
-[Got Project](https://github.com/KIT-Frontend-Team2/week14-pair2-GotProject)  
-[Movie Trailer](https://github.com/KIT-Frontend-Team2/week15-movie-trailer-project)  
-[Paradise](https://github.com/KIT-Frontend-Team2/Paradise) 
-
 ### ♠️ Blog
 [Blog](https://dbs271.github.io)
 </div>
