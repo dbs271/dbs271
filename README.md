@@ -39,15 +39,15 @@ Here are some ideas to get you started:
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdbs271&count_bg=%23555555&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
 
 ### 📚 Note
-<a href="https://shrouded-neon-e05.notion.site/3a8265a063654b69b2a62beac7fcd2ce?v=42ee693f07d44aa6b0d0f527d7bb045b&pvs=4">
+<a href="https://shrouded-neon-e05.notion.site/3a8265a063654b69b2a62beac7fcd2ce?v=42ee693f07d44aa6b0d0f527d7bb045b&pvs=4" style="color:white">
 <img alt="Notion" src ="https://img.shields.io/badge/notion-000000.svg?&style=for-the-badge&logo=notion&logoColor=000000"/>
   <a/>
 
 ### 📂 Team Project
-<a alt="got-project" href="https://github.com/KIT-Frontend-Team2/week14-pair2-GotProject">Got Project</a>  
-<a alt="movie-trailer" href="https://github.com/KIT-Frontend-Team2/week15-movie-trailer-project" >Movie Trailer</a>  
-<a alt="Paradise" href="https://github.com/KIT-Frontend-Team2/Paradise">Paradise</a> 
+<a alt="got-project" href="https://github.com/KIT-Frontend-Team2/week14-pair2-GotProject" style="color:white">Got Project</a>  
+<a alt="movie-trailer" href="https://github.com/KIT-Frontend-Team2/week15-movie-trailer-project" style="color:white" >Movie Trailer</a>  
+<a alt="Paradise" href="https://github.com/KIT-Frontend-Team2/Paradise" style="color:white">Paradise</a> 
 
 ### ♠️ Blog
-<a alt="Blog" href="https://dbs271.github.io">Blog</a>
+<a alt="Blog" href="https://dbs271.github.io" style="color:white">Blog</a>
 </div>
