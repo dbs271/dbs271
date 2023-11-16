@@ -44,6 +44,5 @@ Here are some ideas to get you started:
   <a/>
 
 
-### ♠️ Blog
-[Blog](https://dbs271.github.io)
+
 </div>
