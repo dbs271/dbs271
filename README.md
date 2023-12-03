@@ -45,7 +45,7 @@ Here are some ideas to get you started:
 
 ### 📚 Note
 <a href="https://shrouded-neon-e05.notion.site/3a8265a063654b69b2a62beac7fcd2ce?v=42ee693f07d44aa6b0d0f527d7bb045b&pvs=4">
-<img alt="Notion" src ="https://img.shields.io/badge/notion-000000.svg?&style=for-the-badge&logo=notion&logoColor=000000"/>
+<img alt="Notion" src ="https://img.shields.io/badge/notion-000000.svg?&style=for-the-badge&logo=notion&logoColor=fff"/>
   <a/>
 
 
