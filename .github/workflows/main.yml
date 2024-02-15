@@ -10,8 +10,11 @@ jobs:
     runs-on: ubuntu-latest
     name: generate-github-profile-3d-contrib
     steps:
+      - uses: actions/setup-node@v2
+        with:
+          node-version: '20' # Node.js 20을 사용하도록 설정
       - uses: actions/checkout@v3
-      - uses: yoshi389111/github-profile-3d-contrib@0.7.1
+      - uses: yoshi389111/github-profile-3d-contrib@1.0.0 # 최신 버전으로 업데이트
         env:
           GITHUB_TOKEN: ${{ secrets.TOKEN }}
           USERNAME: ${{ github.repository_owner }}
